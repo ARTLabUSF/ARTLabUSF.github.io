@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  search: 
+    location: navbar
+    type: overlay
+  title: "ART LAB USF"
+  navbar:
+    left:
+          - text: "Home"
+            file: index.qmd
+          - text: "People"
+            file: People.qmd
+          - text: "Projects/Publications"
+            file: Projects.qmd
+          - text: "Contact Us"
+            file: Contact.qmd
+ 
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
