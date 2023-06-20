@@ -6,7 +6,10 @@ title: 'Projects'
 # Projects
 
 ## Recovery Study
-
+::: {.callout-note}
+We are currently looking for participants to enroll in this ***paid study***. Please click the link below to learn more!
+:::
+The Recovery Study is our most current study that can be read about here: [Recovery Study](https://artlabusf.github.io/RecoveryStudy)
 
 ## Ambivalence Model of Craving: Re-examining the Craving-Drinking Relationship 
 
