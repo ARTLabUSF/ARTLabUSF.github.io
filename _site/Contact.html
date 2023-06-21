@@ -88,10 +88,20 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./People.html">People</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Projects.html">Projects/Publications</a>
+    <a class="nav-link" href="./Projects.html">Projects</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Publications.html">Publications</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./Contact.html" aria-current="page">Contact Us</a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://facebook.com"><i class="bi bi-facebook" role="img">
+</i> 
+ </a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -135,18 +145,31 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<script>
+<!-- <script>
     function showEmail() {
         document.getElementById("email").style.display = "block";
         document.getElementById("show-button").style.display = "none";
     }
+</script> -->
+<script>
+  function showEmail() {
+    document.getElementById("email").style.display = "block";
+    document.getElementById("show-button").style.display = "none";
+  }
 </script>
 <button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">
-Show Email
+<i class="bi bi-envelope"></i> Show Email
 </button>
 <p id="email" style="display:none">
 artlabusf@gmail.com
 </p>
+<button type="button" class="btn btn-light" onclick="window.open('tel:8139740839');">
+<i class="bi bi-telephone-outbound-fill"></i> Call 813-974-0839
+</button>
+<!-- <button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">Show Email
+  <i class="bi bi-envelope-at-fill"></i>
+</button>
+<p id="email" style="display:none">artlabusf@gmail.com</p> -->
 <p><strong>To prevent spam, we have hidden our email address. Please click the button above to reveal it.</strong></p>
 <section id="directions" class="level1">
 <h1>Directions</h1>

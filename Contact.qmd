@@ -4,18 +4,27 @@ title: 'Contact Us'
 ---
 
 
+
 <script>
-	function showEmail() {
-		document.getElementById("email").style.display = "block";
-		document.getElementById("show-button").style.display = "none";
-	}
+  function showEmail() {
+    document.getElementById("email").style.display = "block";
+    document.getElementById("show-button").style.display = "none";
+  }
 </script>
 
-
-
-
-<button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">Show Email</button>
+<button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">
+  <i class="bi bi-envelope"></i> Show Email
+</button>
 <p id="email" style="display:none">artlabusf@gmail.com</p>
+
+
+
+<button type="button" class="btn btn-light" onclick="window.open('tel:8139740839');">
+  <i class="bi bi-telephone-outbound-fill"></i> Call 813-974-0839
+</button>
+
+
+
 
 
 
