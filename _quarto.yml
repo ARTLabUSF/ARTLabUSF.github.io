@@ -20,7 +20,7 @@ website:
             file: Contact.qmd
     right:
           - icon: facebook
-            href: https://facebook.com
+            href: https://www.facebook.com/recoverystudy
  
 format:
   html:

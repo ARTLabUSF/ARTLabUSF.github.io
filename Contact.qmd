@@ -31,9 +31,7 @@ title: 'Contact Us'
 **To prevent spam, we have hidden our email address. Please click the button above to reveal it.**
 
 # Directions
-**Room 3123**
-<br></br>
-PCD Lab Building, 4202 E Fowler Ave, Tampa, FL 33620
+
 
 
 <style>
@@ -56,8 +54,32 @@ PCD Lab Building, 4202 E Fowler Ave, Tampa, FL 33620
   <iframe class="map-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.711748323255!2d-82.42076268477186!3d28.06382468264554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2c7bd01d8c54b%3A0xd6094c7c7033753d!2sPsychology%20and%20Communication%20Sciences%20and%20Disorders%20Lab%20Building%2C%20Tampa%2C%20FL%2033620!5e0!3m2!1sen!2sus!4v1675713543249!5m2!1sen!2sus"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </div>
 
-# Parking Information
 
-If you're involved in an ongoing study, please park in the spaces behind the building labeled PCD/CSD 1, 2, or 3. Enter through the Psychological Services entrance, which faces the road underneath the building to the West.
 
-Otherwise, please park in any visitor parking space, or whichever parking space you are allowed to park in. Enter through the main entrance, which is past the Psychological Services entrance and has a TV screen in the lobby by the stairs.
+Your appointment will be held at USF's Tampa campus in the Psychological Services Center. 
+
+
+Address: ***3711 USF Citrus Drive, Psychological Services Center, PCD1100, Tampa, FL 33620***
+
+ 
+
+## By Car:
+### ***From I-275***:
+  Take the Fletcher Avenue Exit.  Turn East onto Fletcher Avenue and travel approximately five miles to the University.  From Fletcher Avenue, turn right onto Magnolia and travel to the first light.  At that light, turn left onto Holly.  Travel to the first light and turn right onto Laurel.
+
+### ***From I-75***:
+ Take the Fletcher Avenue exit.  Turn West onto Fletcher Avenue and travel approximately 3.5 miles to the University.   From Fletcher Avenue, turn left onto Magnolia and travel to the first light.  At that light, turn left onto Holly.  Travel to the first light and turn right onto Laurel.
+
+ After turning onto Laurel, the Psychology building will be directly ahead. You need to travel past the closed parking lot on the left and go through the round-about and then go under the breezeway in the PCD building.  Take your first left after exiting the round-about and go into the parking lot that is south of the PCD building (Parking Lot 9A).  The parking spots for the Psychological Services Center are located adjacent to the PCD building toward your left. The spots are painted green and are labeled CSD/PSY.
+
+ 
+
+## By Bus:
+
+ 
+
+Use **HART route #5**, get off at the bus stop in front of Moffitt Cancer Center. Walk to your left, and onto Citrus Drive. Walk down on Citrus drive until to reach the round-about. The Psychological Services Center is located to the right of the round-about.
+
+ 
+
+If you get lost when trying to come in, you can call the PSC for directions at: 813-974-2496
