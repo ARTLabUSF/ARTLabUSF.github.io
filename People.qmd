@@ -96,3 +96,7 @@ Charlie completed his B.S. in Psychology and a two-year post-bac research positi
 - Emily Noyes, Ph.D.
 - Jacob Levine, Ph.D.
 - Becky Gius, Ph.D.
+
+# Undergraduate Research Assistants
+- [J.D. Dato](https://jd-dato.github.io)
+  - J.D. is the maintainer of this website, and is going to begin graduate studies in Computer Science at the University of South Florida.
