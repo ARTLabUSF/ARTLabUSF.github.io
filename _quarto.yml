@@ -10,6 +10,8 @@ website:
     left:
           - text: "Home"
             file: index.qmd
+          - text: "Recovery Study"
+            file: RecoveryStudy.qmd
           - text: "People"
             file: People.qmd
           - text: "Projects"

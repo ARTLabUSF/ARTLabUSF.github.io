@@ -1,23 +1,39 @@
 ---
 title: 'Publications'
-
+toc: true
+toc_label: 'Publications by Topic'
+toc_icon: 'book'
+toc-location: body
 
 ---
 
+## Alcohol Use Disorder (AUD)
 
-# Publications
+## Psychological Mechanisms of Addiction (Craving, Avoidance, etc.)
 
+*Ahlich, E., *Verzijl, C.L., *Simon, J., Schlauch, R.C., & Rancourt, D. (in press). Support for a multidimensional model of food craving using self-report and cue reactivity methodologies. International Journal of Eating Disorders.
+<br></br>
 
+*Noyes, E.T., *Levine, J.A., & Schlauch, R.C. (2019). Psychometric evaluation of the approach and avoidance of alcohol questionnaire in a community sample. Journal of Psychopathology and Behavioral Assessment, 41, 375-383.
+<br></br>
+
+Schlauch, R.C., Crane, C.A., Connors, G.J., Dearing, R.L., & Maisto, S.A (2019). The Role of Craving in the Treatment of Alcohol Use Disorders: The Importance of Pretreatment Changes and Competing Desires. Drug and Alcohol Dependence, 199, 144-150.
+<br></br>
+
+*Levine, J.A., *Noyes, E.T., *Gius, B., Houston, R.J., *Ahlich, E., Rancourt, D. & Schlauch, R.C. (2019). Development and Psychometric Evaluation of a Brief Approach and Avoidance of Alcohol Questionnaire. Alcoholism: Clinical and Experimental Research, 43, 353-366.
+<br></br>
+
+## Substance Use Disorder Treatment
 
 *Levine, J.A., *Gius, B.K., *Boghdadi, G., Connors, G.J., Maisto, S.A., & Schlauch, R.C. (in press). Between- and within-person associations between alcohol use and psychological distress during and following treatment: A Test of the bidirectional relationships. Alcoholism: Clinical and Experimental Research
 <br></br>
-*Ahlich, E., *Verzijl, C.L., *Simon, J., Schlauch, R.C., & Rancourt, D. (in press). Support for a multidimensional model of food craving using self-report and cue reactivity methodologies. International Journal of Eating Disorders.
-<br></br>
-*Noyes, E.T., *Levine, J.A., & Schlauch, R.C. (2019). Psychometric evaluation of the approach and avoidance of alcohol questionnaire in a community sample. Journal of Psychopathology and Behavioral Assessment, 41, 375-383.
-Schlauch, R.C., Crane, C.A., Connors, G.J., Dearing, R.L., & Maisto, S.A (2019). The Role of Craving in the Treatment of Alcohol Use Disorders: The Importance of Pretreatment Changes and Competing Desires. Drug and Alcohol Dependence, 199, 144-150.
-<br></br>
-*Levine, J.A., *Noyes, E.T., *Gius, B., Houston, R.J., *Ahlich, E., Rancourt, D. & Schlauch, R.C. (2019). Development and Psychometric Evaluation of a Brief Approach and Avoidance of Alcohol Questionnaire. Alcoholism: Clinical and Experimental Research, 43, 353-366.
-<br></br>
+
+
+
+
+
+
+
 Rancourt, D., *Ahlich, E., *Levine, J.,A., *Lee, M., Schlauch, R. C., (2019). Applying a multidimensional model of craving to disordered eating behaviors: Development of an approach and avoidance questionnaire. Psychological Assessment, 31, 751-764
 <br></br>
 *Noyes, E.T. & Schlauch, R.C. (2018). Examination of approach and avoidance inclinations on the reinforcing value of alcohol. Addictive Behaviors, 79, 61-67.

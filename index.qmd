@@ -6,7 +6,7 @@ title: "Addiction Research and Treatment Lab"
 
 ::: {.callout-important}
 # Recovery Study Enrollment:
-If you're interested in particiapting in the **paid** Recovery Study, please [click here](https://usf.az1.qualtrics.com/jfe/form/SV_6sMYyTzU67eSitE?fbclid=IwAR0MkY8bPb6UMVSf05_JLxcmp8ht6gAIRe7j7HqGqtlGu7QEzP3Yv-IVE8w).
+If you're interested in particiapting in the **paid** Recovery Study, please [click here](https://artlabusf.github.io/RecoveryStudy). 
 :::
 
 <!-- For desktop devices -->
