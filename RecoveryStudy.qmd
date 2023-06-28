@@ -2,8 +2,16 @@
 title: 'Recovery Study'
 
 ---
+<img src="recoverystudylogo.jpg" width="200" height="200" />
+
+# How to enroll:
+To enroll, please complete our enrollment eligibility survey at [this link.](https://usf.az1.qualtrics.com/jfe/form/SV_6sMYyTzU67eSitE?fbclid=IwAR3E1fuHwVzinB_RIhykOKXCItWiiaA8X9MsuGflydLV3QCsdA3PihtqcSk) <br></br>
+
+<button type="button" class="btn btn-secondary">[Eligibility Survey](https://usf.az1.qualtrics.com/jfe/form/SV_6sMYyTzU67eSitE?fbclid=IwAR3E1fuHwVzinB_RIhykOKXCItWiiaA8X9MsuGflydLV3QCsdA3PihtqcSk)</button>
+<br></br>
+
 # Overview
-This project aims to examine the utility and validity of the National Institute on Alcohol Abuse and Alcoholism's new definition of recovery from Alcohol Use Disorder (AUD). The study will recruit participants seeking AUD treatment and assess their alcohol use and behaviors. Participants will receive **12 weeks of therapy** and be assessed regularly for up to 54 months post-treatment. The findings aim to enhance understanding of recovery dynamics, improve clinical decision-making, and inform future research on AUD treatment.
+This project examines the utility and validity of the National Institute on Alcohol Abuse and Alcoholism's new definition of recovery from Alcohol Use Disorder (AUD). The study will recruit participants seeking AUD treatment and assess their alcohol use and behaviors. Participants will receive **12 weeks of therapy** and be evaluated regularly for up to 54 months post-treatment. The findings aim to enhance understanding of recovery dynamics, improve clinical decision-making, and inform future research on AUD treatment.
 
 # Payment
 As a part of this study, you will receive:
@@ -11,12 +19,11 @@ As a part of this study, you will receive:
 **$955-$1,455** in compensation.<br></br>
 **12 weeks FREE** of therapy.
 
-# How to enroll:
-To enroll, please complete our enrollment eligibility survey at [this link.](https://usf.az1.qualtrics.com/jfe/form/SV_6sMYyTzU67eSitE?fbclid=IwAR3E1fuHwVzinB_RIhykOKXCItWiiaA8X9MsuGflydLV3QCsdA3PihtqcSk)
+
 
 # FAQs
 - **Where will the therapy sessions occur?**<br></br>
-The therapy sessions will occur at the USF Psychological Services Center, located at 3711 USF Citrus Drive, Psychological Services Center, PCD1100, Tampa, FL 33620.
+The therapy sessions will occur at the USF Psychological Services Center, located at 3711 USF Citrus Drive, Tampa, FL 33620.
 
 - **What is the time commitment?**<br></br>
 The time commitment is 12 weeks of therapy, with 1 session per week. Each session will last approximately 1 hour. After this, you will have to attend 90 minute appointments every 3-6 months for up to 54 months.

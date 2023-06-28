@@ -4,7 +4,7 @@ title: 'Contact Us'
 ---
 
 
-
+<!--- Refer to the bootstrap style guide on buttons to change these into different colors, etc. --->
 <script>
   function showEmail() {
     document.getElementById("email").style.display = "block";
@@ -15,7 +15,7 @@ title: 'Contact Us'
 <button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">
   <i class="bi bi-envelope"></i> Show Email
 </button>
-<p id="email" style="display:none">artlabusf@gmail.com</p>
+<p id="email" style="display:none">[artlabusf@gmail.com](mailto:artlabusf@gmail.com)</p>
 
 
 
@@ -59,7 +59,7 @@ title: 'Contact Us'
 Your appointment will be held at USF's Tampa campus in the Psychological Services Center. 
 
 
-Address: ***3711 USF Citrus Drive, Psychological Services Center, PCD1100, Tampa, FL 33620***
+Address:<br></br> <b> 3711 USF Citrus Drive, Psychological Services Center, PCD1100, Tampa, FL 33620 </b>
 
  
 
