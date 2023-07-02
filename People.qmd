@@ -16,7 +16,8 @@ toc-location: left
 
 <img src="rschlauch.jpg" alt="Robert Sclauch" width="25%" align="left" />
 
-My research interests focus broadly in understanding the role of individual differences in alcohol and drug use behavior. Specifically, I am interested in applying multidisciplinary approaches to the study of: **a)** processes associated with positive treatment outcomes, with a particular emphasis on craving and pretreatment change, **b)** risk factors for the development of substance use disorders (SUDs), including positive and negative reinforcement pathways to use, **c)** the interplay between substance use, comorbid disorders, personality, and aggression, including intimate partner violence, and **d)** the moderating role of individual difference variables in alcohol related disinhibited behaviors. Related to my work on craving, I am also interested (in collaboration with Dr. Diana Rancourt) in the applicability of craving as a transdiagnostic construct for disordered eating and compensatory behaviors. Secondary interests include methodological issues in clinical science broadly, and substance use research specifically.
+My research interests focus broadly on understanding the role of individual differences in alcohol and drug use. Specifically, I am interested in: **1.** Applying multidisciplinary approaches to the study of processes associated with positive treatment outcomes, with a particular emphasis on craving and pretreatment change. **2.** Risk factors for the development of substance use disorders (SUDs), including positive and negative reinforcement pathways to use. **3.** The interplay between substance use, comorbid disorders, personality, and aggression, including intimate partner violence. **4.** And the moderating role of individual difference variables in alcohol-related disinhibited behaviors. <br></br> 
+Related to my work on craving, I am also interested (in collaboration with [Dr. Diana Rancourt](https://www.usf.edu/arts-sciences/departments/psychology/people/drancourt.aspx)) in the applicability of craving as a transdiagnostic construct for disordered eating and compensatory behaviors. Secondary interests include methodological issues in clinical science broadly and substance use research specifically.
 
 <button type="button" class="btn btn-secondary">[Google Scholar](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)</button>
 <br></br>
@@ -84,6 +85,7 @@ Gaelle was originally born in Beirut, Lebanon where she completed her undergradu
 <img src="Charlie_manzlier.jpg" alt="Charlie Manzlier" width="25%" align="left" />
 
 Charlie completed his B.S. in Psychology and a two-year post-bac research position at The Ohio State University before starting graduate school at University of South Florida. His research interests include examining the role of health behaviors (e.g., sleep) on alcohol use disorder risk and recovery. In his free time, he loves exercising, reading, and watching soccer.
+<br></br>
 
 <button type="button" class="btn btn-secondary">[E-mail](mailto:cmanzler@usf.edu)</button>
 
@@ -99,4 +101,4 @@ Charlie completed his B.S. in Psychology and a two-year post-bac research positi
 
 # Undergraduate Research Assistants
 - [J.D. Dato](https://jd-dato.github.io)
-  - J.D. is the maintainer of this website, and is going to begin graduate studies in Computer Science at the University of South Florida.
+  - J.D. maintains this website and is expected to graduate in August of 2023 to continue studies in Computer Science.
