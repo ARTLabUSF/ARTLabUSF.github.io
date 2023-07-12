@@ -22,15 +22,14 @@ Related to my work on craving, I am also interested (in collaboration with [Dr. 
 <button type="button" class="btn btn-secondary">[Google Scholar](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)</button>
 <br></br>
 
-# Project Coordinators
+# Project Coordinators/Lab Managers
+
+## Alex Ebbinghaus
+
+## Isabela Bravo
 
 
-::: {.callout-tip appearence="simple"}
-## Project Coordinators Wanted!
 
-For more information, contact Dr. Schlauch.
-
-:::
 
 # Graduate Students
 
@@ -91,9 +90,10 @@ Charlie completed his B.S. in Psychology and a two-year post-bac research positi
 
 <br></br>
 
+## Agata Pietrzak
 
 
-# Lab Alumni
+# Graduate Alumni
 
 - Emily Noyes, Ph.D.
 - Jacob Levine, Ph.D.

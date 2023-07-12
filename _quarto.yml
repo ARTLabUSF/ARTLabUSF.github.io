@@ -19,6 +19,8 @@ website:
             file: Publications.qmd
           - text: Contact Us
             file: Contact.qmd
+          - text: "Join Us"
+            file: Join.qmd
     right:
           - icon: facebook
             href: https://www.facebook.com/recoverystudy
