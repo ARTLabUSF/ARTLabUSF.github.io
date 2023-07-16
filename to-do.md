@@ -5,4 +5,6 @@
 ## People to add
 1. Agata Pietrzak
 2. Alexander Ebbinghaus
-3. 
+3. Isabela Bravo
+
+## Grad Projects to add
