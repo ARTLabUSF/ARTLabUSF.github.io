@@ -1,6 +1,8 @@
 ---
 title: "Addiction Research and Treatment Lab"
 ---
+<link rel="canonical" href="https://artlabusf.github.io/index.html">
+
 <meta name="description" content="ART LAB USF Addiction Research and Treatment Lab Robert Schlauch Psychology Recovery Study">
 
 **USF's ART Lab studies addiction and related treatments.**
