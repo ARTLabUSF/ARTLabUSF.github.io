@@ -2,6 +2,9 @@
 title: 'Recovery Study'
 
 ---
+<meta
+  name="description"
+  content="ART LAB USF Addiction Research and Treatment Lab Recovery Study">
 <img src="recoverystudylogo.jpg" style="float:left; margin:10px; width:200px; height:200px;" />
 
 # How to enroll:

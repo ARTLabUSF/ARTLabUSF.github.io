@@ -4,6 +4,10 @@ toc: true
 toc-location: left
 ---
 
+<meta
+  name="description"
+  content="ART LAB USF Addiction Research and Treatment Lab">
+
 <style>
   img {
     padding-right: 20px;

@@ -7,6 +7,10 @@ toc-location: body
 
 ---
 
+<meta
+  name="description"
+  content="ART LAB USF Addiction Research and Treatment Lab Publications Robert Schlauch">
+
 ## Alcohol Use and Psychological Distress
 1. Levine, J.A., Gius, B.K., Boghdadi, G., Connors, G.J., Maisto, S.A., & Schlauch, R.C. (in press). Between- and within-person associations between alcohol use and psychological distress during and following treatment: A Test of the bidirectional relationships. *Alcoholism: Clinical and Experimental Research.*<br></br> [Read Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7680417/)
 

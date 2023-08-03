@@ -3,6 +3,9 @@ title: 'Projects'
 
 
 ---
+<meta
+  name="description"
+  content="ART LAB USF Addiction Research and Treatment Lab Recovery Study">
 # Current Projects
 
 
